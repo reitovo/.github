@@ -2,6 +2,5 @@
 
 ## 这里是铃当Reito的最新项目喵🐱
 
-[前往个人页](https://github.com/cnSchwarzer)
-
-[前往主页](https://reito.fun)
+- [前往个人页](https://github.com/cnSchwarzer)
+- [前往主页](https://reito.fun)
